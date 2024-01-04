@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WaterLevelMonitor</string>
+    <string name="current_water_level">Current Water Level</string>
+    <string name="_0">0%</string>
+    <string name="turn_on">Turn ON</string>
+    <string name="turn_off">Turn OFF</string>
+</resources>
